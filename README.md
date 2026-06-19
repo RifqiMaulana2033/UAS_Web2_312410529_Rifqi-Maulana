@@ -24,24 +24,25 @@ E-Report adalah sistem informasi berbasis web yang memfasilitasi masyarakat untu
 ## 📸 Dokumentasi Sistem
 
 ### 1. Skema Relasi Database
-![Relasi Tabel Database]()
+![Relasi Tabel Database](https://github.com/RifqiMaulana2033/UAS_Web2_312410529_Rifqi-Maulana/blob/main/Screenshot/Tabel%20relasi.png)
 *Relasi antara tabel users, kategori, dan pengaduan.*
 
 ### 2. Proteksi Keamanan Server (Error 401 Unauthorized)
-![Postman Error 401]()
+![Postman Error 401](https://github.com/RifqiMaulana2033/UAS_Web2_312410529_Rifqi-Maulana/blob/main/Screenshot/postman401.png)
 *Uji coba tembak endpoint API tanpa melampirkan Authorization Bearer Token via Postman.*
 
 ### 3. Antarmuka Pengguna (User Interface)
 *Aplikasi didesain sepenuhnya menggunakan utility class dari TailwindCSS.*
 
 **A. Halaman Login**  
-![Halaman Login]()
+![Halaman Login](https://github.com/RifqiMaulana2033/UAS_Web2_312410529_Rifqi-Maulana/blob/main/Screenshot/login.png)
 
 **B. Dashboard Admin & Tabel Data**  
-![Dashboard Admin]()
+![Dashboard Admin](https://github.com/RifqiMaulana2033/UAS_Web2_312410529_Rifqi-Maulana/blob/main/Screenshot/admin%20page.png)
 
 **C. Modal Tambah/Edit Data (Aduan)**  
-![Form Modal]()
+![Form tambahl](https://github.com/RifqiMaulana2033/UAS_Web2_312410529_Rifqi-Maulana/blob/main/Screenshot/tambah%20data.png)
+![Form editl](https://github.com/RifqiMaulana2033/UAS_Web2_312410529_Rifqi-Maulana/blob/main/Screenshot/edit.png)
 
 ---
 
