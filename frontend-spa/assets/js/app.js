@@ -1,7 +1,7 @@
 const { createApp } = Vue;
 const { createRouter, createWebHashHistory } = VueRouter;
 
-const apiUrl = 'e-reportwarga.gt.tc';
+const apiUrl = 'https://e-reportwarga.gt.tc/api';
 
 // --- AXIOS INTERCEPTORS ---
 // 1. Menyuntikkan Token otomatis setiap kali nge-request ke server
